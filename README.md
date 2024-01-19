@@ -4,7 +4,7 @@ Welcome to the repository covering the basic concepts of programming in JavaScri
 
 ## Table of Contents
 
-1. [Hello World Program](#hello-world-program)
+1. [Hello World Program](https://github.com/vedantnotfound/Javascript-Programs/blob/main/01_HelloWorld_Program.JS)
 2. [Declare Variable Using Var](#declare-variable-using-var)
 3. [More About Variable](#more-about-variable)
 4. [Let](#let)
