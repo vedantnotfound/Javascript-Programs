@@ -1,4 +1,5 @@
-"use strict";
+"use strict"; // it used to Decalre variable everytime if we use Var 
+
 // intro to variables
 
 // variables can store some information
